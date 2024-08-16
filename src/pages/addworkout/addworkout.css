@@ -1,0 +1,241 @@
+/* .formpage{
+    background-color: aqua;
+    display:flex;
+    flex-direction: column;
+    width: 500px;
+}
+.logo{
+
+}
+.adminlinks{ */
+    /* background-color: antiquewhite; */
+/* }
+
+.thirddiv{ */
+    /* { */
+        /* display: flex;
+        flexDirection: row;
+        alignItems: center;
+        justifyContent: center; */
+    /* } */
+/* } */
+
+/* addworkout.css */
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.formpage {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.title {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="file"],
+textarea {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+textarea {
+    resize: vertical;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.thirddiv {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.exercises {
+    margin-top: 30px;
+}
+
+.exercise {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.exercise h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.exercise p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.exercise img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button + button {
+    margin-left: 10px;
+} */
+
+/* addworkout.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+}
+
+.formpage {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 30px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-top: 600px;
+}
+
+.title {
+    font-size: 2em;
+    color: #4a4a4a;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="file"],
+textarea {
+    width: calc(100% - 24px);
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    font-size: 1em;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+    transition: border-color 0.3s;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+textarea:focus {
+    border-color: #b3b3b3;
+}
+
+textarea {
+    resize: vertical;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #6b6b6b;
+}
+
+button {
+    padding: 12px 20px;
+    color: #fff;
+    background-color: #82c0cc;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease, transform 0.1s ease;
+}
+
+button:hover {
+    background-color: #6ba4b0;
+    transform: scale(1.02);
+}
+
+button:active {
+    background-color: #5e949e;
+    transform: scale(0.98);
+}
+
+.thirddiv {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: 1px solid #e0e0e0;
+    padding-top: 20px;
+}
+
+.exercises {
+    margin-top: 30px;
+}
+
+.exercise {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.05);
+}
+
+.exercise h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+    color: #4a4a4a;
+}
+
+.exercise p {
+    margin: 5px 0;
+    color: #6b6b6b;
+}
+
+.exercise img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button + button {
+    margin-left: 10px;
+}

@@ -1,0 +1,18 @@
+.mainbox{
+    /* background-color: aqua; */
+    margin: 10px 0px;
+    border: 1px solid rgb(95, 74, 255);
+    /* padding: 10px; */
+    /* padding-top: 10px; */
+    /* padding-bottom: 15px; */
+    border-radius: 4px;
+}
+.namemail{
+    border: 1px solid rgb(95, 74, 255);
+    padding: 10px;
+}
+.month{
+    padding: 10px;
+    border: 1px solid rgb(95, 74, 255);
+    padding-bottom: 15px;
+}
